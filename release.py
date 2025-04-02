@@ -4,7 +4,7 @@ import os
 
 # GitHub repository and token
 GITHUB_TOKEN = os.getenv("GITHUB_TOKEN")  # Reads from Jenkins environment
-REPO_OWNER = "<your-username>"  # Replace with your GitHub username
+REPO_OWNER = "Pequod272"  # Replace with your GitHub username
 REPO_NAME = "Random_C"  # Repository name
 
 # Generate release details
